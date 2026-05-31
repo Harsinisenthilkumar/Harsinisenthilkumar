@@ -1,8 +1,8 @@
-# Hi there, I'm Harsini S 👋
+ # Hi there, I'm Harsini S 👋
 
 🎓 Computer Science and Engineering Student
 
-☁️ AWS Cloud Foundation Certified
+☁️ Google Cloud Foundation Certified
 
 💻 Passionate about Cloud Computing, DevOps, Backend Development, and Problem Solving
 
