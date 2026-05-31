@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi there, I'm Harsini S 👋
 
-<!--
-**Harsinisenthilkumar/Harsinisenthilkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering Student
 
-Here are some ideas to get you started:
+☁️ AWS Cloud Foundation Certified
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Cloud Computing, DevOps, Backend Development, and Problem Solving
+
+---
+
+## 🚀 Currently Learning
+
+* Linux Administration
+* Docker
+* AWS Services
+* Git & GitHub
+* CI/CD Concepts
+* Data Structures & Algorithms
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* JavaScript
+* SQL
+* HTML5
+* CSS3
+
+### Cloud & DevOps
+
+* AWS
+* Git
+* Docker (Learning)
+* CI/CD Concepts
+
+### Database
+
+* MySQL
+
+---
+
+## 📂 Featured Projects
+
+### 🌍 Book My Travels
+
+Responsive travel booking website built using HTML, CSS, and JavaScript.
+
+### 🐳 Dockerized Web Application Deployment
+
+Containerized and deployed a web application using Docker and AWS EC2.
+
+---
+
+## 📈 Goals for 2026
+
+* Build strong DevOps projects
+* Master Docker & Kubernetes
+* Complete 100+ DSA problems
+* Contribute consistently on GitHub
+* Secure a Cloud/DevOps internship
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/harsini-senthil
+* Email: [harsinisenthilkumar3@gmail.com](mailto:harsinisenthilkumar3@gmail.com)
